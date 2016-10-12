@@ -1,9 +1,14 @@
 p {
-  color: green;
+  color: #FF4040;
   font-size: 20px;
   text-align: center;
 }
 .social-media{
-  color: #3399FF;
+  color: ##FF4040;
   text-align: center;
+}
+#title {
+  font-family: fantasy;
+  font-size: 20px;
+  color: #990000
 }
